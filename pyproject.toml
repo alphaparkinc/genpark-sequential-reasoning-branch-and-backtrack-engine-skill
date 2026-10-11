@@ -1,0 +1,1 @@
+[project]\nname = "genpark-sequential-reasoning-branch-and-backtrack-engine-skill"\nversion = "1.0.0"\ndescription = "Tracks multi-step reasoning chains, supports branching hypotheses, and prunes dead-end thought paths"\nreadme = "README.md"\nrequires-python = ">=3.9"\ndependencies = []\n
