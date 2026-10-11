@@ -1,0 +1,1 @@
+# genpark-sequential-reasoning-branch-and-backtrack-engine-skill\n\nTracks multi-step reasoning chains, supports branching hypotheses, and prunes dead-end thought paths.\n\n100% Python Standard Library implementation with zero external dependencies.
