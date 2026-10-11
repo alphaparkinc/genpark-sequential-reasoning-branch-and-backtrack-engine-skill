@@ -1,0 +1,8 @@
+{
+  "name": "genpark-sequential-reasoning-branch-and-backtrack-engine-skill",
+  "version": "1.0.0",
+  "description": "Tracks multi-step reasoning chains, supports branching hypotheses, and prunes dead-end thought paths",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
