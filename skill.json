@@ -4,5 +4,8 @@
   "description": "Tracks multi-step reasoning chains, supports branching hypotheses, and prunes dead-end thought paths",
   "entrypoint": "client.py",
   "author": "GenPark",
+  "homepage": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "linkedin_page": "https://www.llinkedin.com/company/92955550",
   "license": "MIT"
 }
